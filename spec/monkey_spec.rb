@@ -1,7 +1,7 @@
 require './lib/monkey'
 
 RSpec.describe Monkey do
-    xit 'exists' do
+    it 'exists' do
         max = Monkey.new('Max', 14)
 
         expect(max).to be_a(Monkey)
