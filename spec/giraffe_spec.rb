@@ -1,7 +1,7 @@
 require './lib/giraffe'
 
 RSpec.describe Giraffe do
-    xit 'exists' do
+    it 'exists' do
         gary = Giraffe.new('Gary', 13)
 
         expect(gary).to be_a(Giraffe)
