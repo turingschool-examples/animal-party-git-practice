@@ -1,3 +1,3 @@
-class Zoo
+class Menagerie
 
 end
