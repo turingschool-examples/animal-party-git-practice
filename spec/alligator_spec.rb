@@ -1,7 +1,7 @@
 require './lib/alligator'
 
 RSpec.describe Alligator do
-    xit 'exists' do
+    it 'exists' do
         amber = Alligator.new('Amber', 24)
 
         expect(amber).to be_a(Alligator)
