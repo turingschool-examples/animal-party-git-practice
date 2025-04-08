@@ -1,6 +1,6 @@
 # Paired Git Workflow Practice
 
-For this exercise, one of you will be Person A, and the other will be Person B.  Decide now, and write it down so you don't forget who you are!
+For this exercise, one of you will be responsible for Reptiles, and the other will be responsible for Mammals.  Decide now, and write it down so you don't forget who you are!
 
 Complete each section before moving to the next.  Reach out to your instructor for help if you run in to ANY issues!
 
